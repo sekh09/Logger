@@ -1,0 +1,20 @@
+[
+   {
+      "userName": "Tanmay1",
+      "websiteName": "xyz1.com",
+      "activityTypeDescription": "Viewed",
+      "signedInTime": "01/13/2020"
+   },
+   {
+      "userName": "Tanmay2",
+      "websiteName": "xyz2.com",
+      "activityTypeDescription": "Viewed",
+      "signedInTime": "02/13/2020"
+   },
+   {
+      "userName": "Tanmay3",
+      "websiteName": "xyz3.com",
+      "activityTypeDescription": "Viewed",
+      "signedInTime": "03/13/2020"
+   }
+]

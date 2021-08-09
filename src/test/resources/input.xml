@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<activities>
+    <activity>
+        <userName>Tanmay1</userName>
+        <websiteName>xyz1.com</websiteName>
+        <activityTypeCode>001</activityTypeCode>
+        <loggedInTime>2020-02-13</loggedInTime>
+        <number_of_views>10</number_of_views>
+    </activity>
+    <activity>
+        <userName>Tanmay2</userName>
+        <websiteName>xyz2.com</websiteName>
+        <activityTypeCode>002</activityTypeCode>
+        <loggedInTime>2020-03-13</loggedInTime>
+        <number_of_views>10</number_of_views>
+    </activity>
+    <activity>
+        <userName>Tanmay3</userName>
+        <websiteName>xyz3.com</websiteName>
+        <activityTypeCode>003</activityTypeCode>
+        <loggedInTime>2020-04-13</loggedInTime>
+        <number_of_views>10</number_of_views>
+    </activity>
+</activities>
